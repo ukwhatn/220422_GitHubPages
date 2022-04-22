@@ -6,16 +6,40 @@ permalink: /
 
 ここに内容を記述する！
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wQ_MuHNTYN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<math>
+    <mrow>
+      <mrow>
+        <msup>
+          <mi>a</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>+</mo>
+        <msup>
+          <mi>b</mi>
+          <mn>2</mn>
+        </msup>
+      </mrow>
+      <mo>=</mo>
+      <msup>
+        <mi>c</mi>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+</math>
 ---
 
 以下テンプレート
 
 # 見出し1
+
 ## 見出し2
+
 ### 見出し3
+
 #### 見出し4
+
 ##### 見出し5
+
 ###### 見出し6
 
 改行は、行末に半角スペースを2個いれる  
@@ -28,17 +52,15 @@ permalink: /
 > 引用
 >> 多重引用
 
-
 - 箇条書きリスト
-  - ネスト
-    - さらにネスト
+    - ネスト
+        - さらにネスト
 
 
 1. 番号付きリスト
-   1. ネスト
-      1. さらにネスト
+    1. ネスト
+        1. さらにネスト
 
-  
 | 列1  | 列2  |
 |-----|-----|
 | 内容  | 内容  |
