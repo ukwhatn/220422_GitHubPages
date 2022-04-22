@@ -1,6 +1,6 @@
 ---
 title: "テストページ 作成サンプル"
-author:Sane21
+author:default
 permalink: /
 ---
 ここに内容を記述する！
