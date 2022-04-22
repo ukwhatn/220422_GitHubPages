@@ -6,6 +6,7 @@ permalink: /
 
 ここに内容を記述する！
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wQ_MuHNTYN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 以下テンプレート
