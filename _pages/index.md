@@ -9,9 +9,40 @@ permalink: /hoge
 
 以下テンプレート
 
-# なんか良い感じの見出し
+# なんか良い感じの見出し名
 
-## 見出し2
+ほげほげ
+
+## 自己紹介 - Profile
+
+### 氏名
+
+實藤敬太  
+
+Keita Sanefuji
+
+### 肩書き
+
+近畿大学理工学部情報学科3年 システムコース  
+KINDAI University, Science and Engineering Department, Informatics class, system cource
+
+KINDAI Info-Tech HUB 学生キャプテン  
+Campain  
+
+理工学部同窓会学生部会研究会連絡協議会研究会電子計算機研究会 会長
+Riko Doso-kai Gakusei-bu-kai kenkyukai-renrakukyogikai-kenkyukai Computer Study Club, Leader
+
+### 好物
+
+ラーメン  
+
+ra-men
+
+遊戯王  
+
+Yu-Gi-Oh
+
+## hogehoge
 
 ### 見出し3
 
