@@ -1,7 +1,7 @@
 ---
 title: "テストページ 作成サンプル"
-author:default
-permalink: /
+author:Sane21
+permalink: /hoge
 ---
 ここに内容を記述する！
 
@@ -41,9 +41,8 @@ permalink: /
    1. ネスト
       1. さらにネスト
 
-
-| 列1 | 列2 |
-| - | - |
+| 列1  | 列2  |
+| ---- | ---- |
 | 内容 | 内容 |
 | 内容 | 内容 |
 
